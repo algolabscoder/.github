@@ -40,3 +40,20 @@
 ☁ Cloud
       ↓
 🏆 Industry Ready
+
+
+🤖 AI Interview Assistant
+
+📄 Resume Analyzer
+
+🩺 Medical Chatbot
+
+📈 Business Dashboard
+
+🎤 Voice Assistant
+
+📚 RAG Chatbot
+
+☁ AI Cloud Deployment
+
+🤝 Open Source Projects
