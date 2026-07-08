@@ -1,322 +1,117 @@
-<div align="center">
-
-# 🚀 ALGO LABS
-
-### Intelligence • Engineered
-
-### Building Future AI Engineers
-
 <p align="center">
-Artificial Intelligence • Machine Learning • Data Science • Generative AI • Agentic AI • Cloud Computing
+<img src="banner.png" width="100%">
 </p>
 
----
+<h1 align="center">🚀 ALGO LABS</h1>
 
-### 🌍 Learn • Build • Innovate • Contribute
+<h3 align="center">
+Intelligence • Engineered
+</h3>
 
-[🌐 Website](https://www.algolabs.co.in) •
-[💼 LinkedIn](https://www.linkedin.com/in/algo-labs/) •
-[📸 Instagram](https://www.instagram.com/algolabs26/) •
-[👍 Facebook](https://www.facebook.com/profile.php?id=61574349973748)
+<h3 align="center">
+Building Future AI Engineers
+</h3>
+<p align="center">
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Welcome+to+Algo+Labs;Building+Future+AI+Engineers;Artificial+Intelligence;Machine+Learning;Generative+AI;Agentic+AI;Cloud+Computing;Open+Source+Community;Industry+Internships;Research+%26+Innovation;Learn+%7C+Build+%7C+Innovate" />
 
----
+</p>
+<p align="center">
 
-# 👋 Welcome to Algo Labs
+<a href="https://www.algolabs.co.in">
+<img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=googlechrome"/>
+</a>
 
-Algo Labs is an **AI-first learning, research, and innovation organization** dedicated to building the next generation of AI Engineers.
+<a href="https://www.linkedin.com/in/algo-labs/">
+<img src="https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-We bridge the gap between academic education and industry requirements through **hands-on learning, live internships, open-source collaboration, and real-world AI projects.**
+<a href="https://www.instagram.com/algolabs26/">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
----
+<a href="https://chat.whatsapp.com/CTlYdfJoplnFbyJ5OlORJv">
+<img src="https://img.shields.io/badge/AI_Community-Join-25D366?style=for-the-badge&logo=whatsapp"/>
+</a>
 
-# 🎯 Our Vision
+<a href="https://chat.whatsapp.com/DAn4VEo0VOxHJTVfnO61kx">
+<img src="https://img.shields.io/badge/Internship_Community-Join-25D366?style=for-the-badge&logo=whatsapp"/>
+</a>
 
-> **Empowering students to become globally competitive AI professionals through innovation, research, and practical engineering.**
+</p>
 
----
+# 📊 GitHub Statistics
 
-# 🚀 Our Mission
+<p align="center">
 
-✅ Learn by Building
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=algolabscoder&show_icons=true&theme=tokyonight"/>
 
-✅ Open Source First
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=algolabscoder&theme=tokyonight"/>
 
-✅ Real Industry Projects
+</p>
 
-✅ AI Research
+<p align="center">
 
-✅ Innovation
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algolabscoder&layout=compact&theme=tokyonight"/>
 
-✅ Career Transformation
+</p>
+<p align="center">
 
----
+<img src="https://komarev.com/ghpvc/?username=algolabscoder&label=Visitors&color=0e75b6&style=for-the-badge"/>
 
-# 🎓 Internship Programs
+</p>
+# 🏆 GitHub Achievements
 
-We offer industry-oriented internships in:
+<p align="center">
 
-- 🐍 Python Programming
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 📊 Data Science
-- 📈 Data Analytics
-- 💼 Business Analytics
-- ⚡ Generative AI
-- 🤖 Agentic AI
-- ☁ Cloud Computing
-- 🌐 Full Stack AI Development
+<img src="https://github-profile-trophy.vercel.app/?username=algolabscoder&theme=algolia&row=2&column=4"/>
 
-Every internship includes:
+</p>
+## 💻 Programming
 
-- Live Projects
-- GitHub Portfolio Development
-- Weekly Assignments
-- Code Reviews
-- Mentor Support
-- Capstone Project
-- Internship Certificate
-- Career Guidance
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+## 📊 Data Science
 
----
-
-# 🛠 Technology Stack
-
-## Programming
-
-- Python
-- SQL
-- Git
-- GitHub
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E8BC0?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+## 🤖 AI & ML
 
-## Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-228B22?style=for-the-badge)
+## ✨ Generative AI
 
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-
-## Machine Learning
-
-- TensorFlow
-- PyTorch
-- XGBoost
-
-## Generative AI
-
-- OpenAI
-- Claude
-- Gemini
-- LangChain
-- LangGraph
-- CrewAI
-- Ollama
-
-## Deployment
-
-- FastAPI
-- Streamlit
-- Docker
-- Azure
-- AWS
-
----
-
-# 🚀 Featured Open Source Projects
-
-| Project | Description |
-|----------|-------------|
-| 🤖 AI Interview Assistant | AI-powered interview preparation |
-| 📄 Resume Analyzer | Resume analysis using AI |
-| 📚 RAG Chatbot | Intelligent document assistant |
-| 🩺 Medical Chatbot | Healthcare AI assistant |
-| 🎤 AI Voice Assistant | Voice-enabled AI system |
-| 📊 Business Dashboard | Data analytics dashboard |
-| 🤖 Enterprise AI Agent | Multi-agent AI workflows |
-| 🎓 Student Management System | AI-powered academic management |
-
----
-
-# 📚 Learning Roadmap
-
-```text
-Python
-   │
-   ▼
-Git & GitHub
-   │
-   ▼
-SQL
-   │
-   ▼
-Data Analytics
-   │
-   ▼
-Machine Learning
-   │
-   ▼
-Deep Learning
-   │
-   ▼
-Generative AI
-   │
-   ▼
-Prompt Engineering
-   │
-   ▼
-RAG Applications
-   │
-   ▼
-LangChain
-   │
-   ▼
-LangGraph
-   │
-   ▼
-Agentic AI
-   │
-   ▼
-Cloud Deployment
-   │
-   ▼
-Industry Ready AI Engineer
-```
-
----
-
-# 🌟 Why Choose Algo Labs?
-
-✔ Industry-Oriented Curriculum
-
-✔ Live Online Training
-
-✔ Real-Time Projects
-
-✔ Internship Programs
-
-✔ GitHub Portfolio Development
-
-✔ AI Research
-
-✔ Open Source Contribution
-
-✔ Resume Building
-
-✔ Mock Interviews
-
-✔ Placement Assistance
-
----
-
-# 🤝 Who Can Join?
-
-- Engineering Students
-- Degree Students
-- MBA Students
-- MCA Students
-- BCA Students
-- Fresh Graduates
-- Working Professionals
-- Career Switchers
-
----
-
-# 🌍 Our Community
-
-## 📲 AI Learning Community
-
-https://chat.whatsapp.com/CTlYdfJoplnFbyJ5OlORJv
-
----
-
-## 🎓 Internship Community
-
-https://chat.whatsapp.com/DAn4VEo0VOxHJTVfnO61kx
-
----
-
-# 📞 Contact Us
-
-🌐 Website
-
-https://www.algolabs.co.in
-
-📧 Email
-
-info.algolabs@gmail.com
-
-📞 Phone
-
-+91 81474 49088
-
----
-
-# 💼 Connect With Algo Labs
-
-- 💼 LinkedIn  
-  https://www.linkedin.com/in/algo-labs/
-
-- 📸 Instagram  
-  https://www.instagram.com/algolabs26/
-
-- 👍 Facebook  
-  https://www.facebook.com/profile.php?id=61574349973748
-
-- 🌐 Website  
-  https://www.algolabs.co.in
-
----
-
-# ❤️ Contribute
-
-We welcome contributions from:
-
-- 👨‍🎓 Students
-- 👩‍💻 Developers
-- 🤖 AI Engineers
-- 🎓 Researchers
-- 💼 Industry Mentors
-
-Fork our repositories, build amazing projects, and grow with our community.
-
----
-
-# 📈 Our Focus Areas
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- NLP
-- Data Science
-- Business Analytics
-- Generative AI
-- Agentic AI
-- Cloud Computing
-- MLOps
-- Open Source
-
----
-
-<div align="center">
-
-## ⭐ ALGO LABS
-
-### Intelligence • Engineered
-
-### 🚀 Building Future AI Engineers
-
-**Artificial Intelligence • Machine Learning • Generative AI • Agentic AI • Data Science • Cloud Computing**
-
----
-
-### 🌍 Learn | Build | Innovate | Collaborate
-
-**Join our community and shape the future with AI.**
-
-🌐 https://www.algolabs.co.in
-
-Made with ❤️ by **Algo Labs**
-
-</div>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1E90FF?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-8A2BE2?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-111111?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+## ☁️ Cloud & Deployment
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</p>
