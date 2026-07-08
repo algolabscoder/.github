@@ -13,3 +13,11 @@
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=algolabscoder&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=algolabscoder&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=algolabscoder&layout=compact&theme=tokyonight)
