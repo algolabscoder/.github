@@ -21,3 +21,22 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=algolabscoder&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=algolabscoder&layout=compact&theme=tokyonight)
+🐍 Python
+      ↓
+🐙 Git & GitHub
+      ↓
+🗄 SQL
+      ↓
+📊 Data Analytics
+      ↓
+🤖 Machine Learning
+      ↓
+🧠 Deep Learning
+      ↓
+✨ Generative AI
+      ↓
+🔥 Agentic AI
+      ↓
+☁ Cloud
+      ↓
+🏆 Industry Ready
