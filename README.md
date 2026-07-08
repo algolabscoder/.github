@@ -52,6 +52,16 @@
 
 🎤 Voice Assistant
 
+
+🌐 Website
+
+💼 LinkedIn
+
+📸 Instagram
+
+👍 Facebook
+
+💬 WhatsApp Community
 📚 RAG Chatbot
 
 ☁ AI Cloud Deployment
