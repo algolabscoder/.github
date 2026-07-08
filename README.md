@@ -416,29 +416,6 @@ Let's build India's strongest AI Open Source Community together.
 
 ---
 
-<div align="center">
-
-# 🚀 ALGO LABS
-
-### Intelligence • Engineered
-
-### Building Future AI Engineers
-
----
-
-🤖 Artificial Intelligence
-
-🧠 Machine Learning
-
-⚡ Generative AI
-
-🤖 Agentic AI
-
-☁ Cloud Computing
-
-📊 Data Science
-
----
 
 ### 🌍 Learn • Build • Innovate • Contribute
 
@@ -449,10 +426,6 @@ Let's build India's strongest AI Open Source Community together.
 ⭐ If you like our work, please consider **Starring ⭐ our repositories** and becoming part of the **Algo Labs AI Community**.
 
 ---
-
-🌐 https://www.algolabs.co.in
-
-📧 info.algolabs@gmail.com
 
 📞 +91 81474 49088
 
